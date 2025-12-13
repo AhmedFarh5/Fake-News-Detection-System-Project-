@@ -70,7 +70,7 @@ Fake-News-Detection/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Fake-News-Detection.git
+git clone https://github.com/AhmedFarh5/Fake-News-Detection.git
 ```
 
 2. Navigate to the project directory:
